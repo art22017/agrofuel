@@ -1,0 +1,4952 @@
+{
+  "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+  "stations": [
+    {
+      "id": "gb_9413",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "улица Захарова 5",
+      "lat": 45.0022339,
+      "lon": 38.9634664,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9892",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Автолюбителей 32",
+      "lat": 45.0050242,
+      "lon": 39.0682193,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9895",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Бородинская улица 160",
+      "lat": 45.0064623,
+      "lon": 39.1036731,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9496",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Захарова 5А",
+      "lat": 45.0071491,
+      "lon": 38.9680675,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_11442",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Крылатая улица, 3А",
+      "lat": 45.0095071,
+      "lon": 39.1280042,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_10071",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "улица Мачуги 2/6",
+      "lat": 45.0120249,
+      "lon": 39.0687892,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 65.25,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 76.4,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9495",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Ставропольская улица 2/1",
+      "lat": 45.0133038,
+      "lon": 38.9819866,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9497",
+      "name": "Газпромнефть",
+      "brand": "газпромнефть",
+      "address": "улица Суворова, 2/1",
+      "lat": 45.0144,
+      "lon": 38.97758,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 66.1,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 75.04,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9886",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "улица Крупской 8/2",
+      "lat": 45.0146864,
+      "lon": 39.1047503,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 65.25,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 76.4,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9486",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "улица Селезнёва 197/5",
+      "lat": 45.0165901,
+      "lon": 39.0541191,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9552",
+      "name": "Rusoil",
+      "brand": "rusoil",
+      "address": "улица Селезнёва 193/2",
+      "lat": 45.0210134,
+      "lon": 39.051173,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 79.5,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 84.5,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 75.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9494",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Старокубанская улица 131",
+      "lat": 45.0224594,
+      "lon": 39.0490316,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_Lsw06b7q5dg",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул.Вишняковой, 146",
+      "lat": 45.023196,
+      "lon": 38.997017,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9717",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Сормовская улица 4/1",
+      "lat": 45.0233665,
+      "lon": 39.0606424,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "3823180375",
+      "name": "Газпромнефть",
+      "brand": "газпромнефть",
+      "address": "Переходная улица, 3",
+      "lat": 45.0252331,
+      "lon": 38.9929664,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "3192851229",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "улица Лизы Чайкиной, 6/1",
+      "lat": 45.0296809,
+      "lon": 39.0575872,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "2077120925",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Новороссийская улица, 3",
+      "lat": 45.0324687,
+      "lon": 39.0241007,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "7829807792",
+      "name": "Газпромнефть",
+      "brand": "газпромнефть",
+      "address": "ул Восточно-Кругликовская, 6А",
+      "lat": 45.0378539,
+      "lon": 39.028598,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "13321535053",
+      "name": "RusOil",
+      "brand": "rusoil",
+      "address": "ул Уральская, 148/6",
+      "lat": 45.0386714,
+      "lon": 39.0923565,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 77.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 82.5,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 75.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_O6bDwE-V98Q",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Восточно-Кругликовская, 35",
+      "lat": 45.04155413267522,
+      "lon": 39.02659043669701,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "2001028653",
+      "name": "Газпромнефть",
+      "brand": "газпромнефть",
+      "address": "Уральская 194/1",
+      "lat": 45.0429068,
+      "lon": 39.1082557,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 66.1,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 71.56,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 75.04,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "3430025117",
+      "name": "Rusoil",
+      "brand": "rusoil",
+      "address": "ул им. Бабушкина, 250А",
+      "lat": 45.0467643,
+      "lon": 38.9742388,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_2iMmUEtdpSA",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Мирный пр-д, 2",
+      "lat": 45.0572135558577,
+      "lon": 38.893067389726646,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_yeaykHFIG3g",
+      "name": "PNB",
+      "brand": "pnb",
+      "address": "ул Монтажников, 6",
+      "lat": 45.05894446517879,
+      "lon": 38.9635088146898,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "diesel": {
+          "price": 82.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "1979232188",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Ростовское шоссе, 3",
+      "lat": 45.0635426,
+      "lon": 38.9852588,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_67OBZioJhN8",
+      "name": "Сити Ойл",
+      "brand": "сити ойл",
+      "address": "ул Ростовское Шоссе, 5А",
+      "lat": 45.06558043832064,
+      "lon": 38.98553532528958,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "3191138443",
+      "name": "Татнефть",
+      "brand": "татнефть",
+      "address": "Ростовское шоссе, 12/13",
+      "lat": 45.0702869,
+      "lon": 38.9872042,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 67.59,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": false
+        },
+        "ai95": {
+          "price": 73.49,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": false
+        },
+        "diesel": {
+          "price": 78.49,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": false
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "910828882",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Российская улица, 101",
+      "lat": 45.0717533,
+      "lon": 39.0146922,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "w114066678",
+      "name": "ГАЗON",
+      "brand": "газon",
+      "address": "Солнечная улица, 15/1",
+      "lat": 45.0726296,
+      "lon": 39.0018466,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "638390026",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Московская, 89",
+      "lat": 45.0793313,
+      "lon": 39.0006889,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "2512754226",
+      "name": "Уфимнефть",
+      "brand": "уфимнефть",
+      "address": "улица Дзержинского, 68",
+      "lat": 45.0832654,
+      "lon": 38.9759661,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {
+        "ai92": {
+          "price": 94.5,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 90.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_9553",
+      "name": "ГАЗON",
+      "brand": "газon",
+      "address": "улица Дзержинского 80",
+      "lat": 45.0909668,
+      "lon": 38.9776722,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_cViaD9vufMo",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул им. Дзержинского, 94",
+      "lat": 45.09575576394458,
+      "lon": 38.979347348213196,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "1977815196",
+      "name": "Rusoil",
+      "brand": "rusoil",
+      "address": "улица Дзержинского, 227",
+      "lat": 45.1023245,
+      "lon": 38.9814336,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "w249631727",
+      "name": "КТК",
+      "brand": "ктк",
+      "address": "улица Александра Покрышкина, 25",
+      "lat": 45.1030024,
+      "lon": 38.976268,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "1979215679",
+      "name": "RusOil",
+      "brand": "rusoil",
+      "address": "Ростовское шоссе, 32",
+      "lat": 45.1094262,
+      "lon": 38.9955629,
+      "region": "Краснодарский край",
+      "city": "Краснодар",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27570",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Всесоюзная улица 166",
+      "lat": 47.1874961,
+      "lon": 39.6365068,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29406",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Портовая улица 238 к2",
+      "lat": 47.2022274,
+      "lon": 39.6697032,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27540",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "улица Малиновского 32",
+      "lat": 47.2115473,
+      "lon": 39.614221,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27572",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "улица Вагулевского 9А",
+      "lat": 47.2138831,
+      "lon": 39.6937152,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29196",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "проспект Шолохова 10",
+      "lat": 47.236534,
+      "lon": 39.7412556,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29405",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Малиновского 35",
+      "lat": 47.2368274,
+      "lon": 39.6125789,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29302",
+      "name": "Новатэк",
+      "brand": "новатэк",
+      "address": "улица Вересаева 102Б",
+      "lat": 47.2382221,
+      "lon": 39.7983009,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27548",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "проспект Михаила Нагибина 7Б",
+      "lat": 47.242331,
+      "lon": 39.7128103,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29314",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Театральный проспект 62Б",
+      "lat": 47.2423513,
+      "lon": 39.7345502,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_DZ2xq6dodTE",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "пр-кт 40-летия Победы, 332/1",
+      "lat": 47.244034036586186,
+      "lon": 39.84209741890289,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27987",
+      "name": "Teboil",
+      "brand": "teboil",
+      "address": "улица 1-й Конной Армии",
+      "lat": 47.2464433,
+      "lon": 39.7563504,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29386",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Ейская улица 11А",
+      "lat": 47.2468212,
+      "lon": 39.649006,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_G1eO5LcOA64",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Петрожицкого, 2А",
+      "lat": 47.24831725421838,
+      "lon": 39.845118820667274,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "903972863",
+      "name": "Formula",
+      "brand": "formula",
+      "address": "пр-кт Шолохова, 284А",
+      "lat": 47.2633781,
+      "lon": 39.8118495,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_kireVlCQTwc",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "пр-кт Шолохова, 318",
+      "lat": 47.272775873284104,
+      "lon": 39.823184788161676,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_NeY184arUMA",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Вятская, 120",
+      "lat": 47.27839937138364,
+      "lon": 39.77515697457421,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "usr_8OneUN_166M",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Вятская, 116",
+      "lat": 47.28004982115327,
+      "lon": 39.76745271716937,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "13348516431",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Лелюшенко, 19г",
+      "lat": 47.3001806,
+      "lon": 39.7517904,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "2455326397",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Орбитальная улица, 11",
+      "lat": 47.3022913,
+      "lon": 39.7218358,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "4915561927",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "переулок Алябьева, 2/1",
+      "lat": 47.313014,
+      "lon": 39.7869763,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27814",
+      "name": "Shell",
+      "brand": "shell",
+      "address": "Западный подъезд",
+      "lat": 47.1642534,
+      "lon": 39.6492182,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_27897",
+      "name": "Новатэк",
+      "brand": "новатэк",
+      "address": "Западный подъезд",
+      "lat": 47.1702579,
+      "lon": 39.6414064,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_28367",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Южный подъезд",
+      "lat": 47.1831313,
+      "lon": 39.7389028,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_29801",
+      "name": "Flash",
+      "brand": "flash",
+      "address": "Всесоюзная улица",
+      "lat": 47.1896924,
+      "lon": 39.632323,
+      "region": "Ростовская область",
+      "city": "Ростов-на-Дону",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_47227",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Оренбургский тракт 144",
+      "lat": 55.7287813,
+      "lon": 49.1950923,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 98.99,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "98",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_48763",
+      "name": "Irbis",
+      "brand": "irbis",
+      "address": "Тихорецкая улица, 19/2",
+      "lat": 55.7305662,
+      "lon": 49.1177206,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 74.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 79.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_45070",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Магистральная улица, 116А",
+      "lat": 55.7359704,
+      "lon": 49.0973976,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_47231",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Дубравная улица 2А",
+      "lat": 55.7401634,
+      "lon": 49.2246807,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46678",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "проспект Победы, 11",
+      "lat": 55.7428482,
+      "lon": 49.192935,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_47064",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Хусаина Мавлютова 50А",
+      "lat": 55.7444746,
+      "lon": 49.1903902,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46802",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Техническая улица 64А",
+      "lat": 55.7483095,
+      "lon": 49.1330534,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44826",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Комиссара Габишева 30",
+      "lat": 55.750474,
+      "lon": 49.24159,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44681",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Оренбургский тракт, 23А",
+      "lat": 55.7541334,
+      "lon": 49.1616401,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44827",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Оренбургский тракт, 22В",
+      "lat": 55.7543063,
+      "lon": 49.1591749,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46783",
+      "name": "Газпромнефть",
+      "brand": "газпромнефть",
+      "address": "Магистральная улица 33 к2",
+      "lat": 55.7543778,
+      "lon": 49.1058501,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 62.44,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 75.71,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46586",
+      "name": "Irbis",
+      "brand": "irbis",
+      "address": "Техническая улица 27А",
+      "lat": 55.7551261,
+      "lon": 49.1296134,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 74.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 99.99,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "98",
+          "stale": false
+        },
+        "diesel": {
+          "price": 85.35,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": false
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44735",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "проспект Победы 72В",
+      "lat": 55.7552829,
+      "lon": 49.2188586,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46882",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Рихарда Зорге 31Б",
+      "lat": 55.7589978,
+      "lon": 49.1948279,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44736",
+      "name": "ТатГазСервис",
+      "brand": "татгазсервис",
+      "address": "улица Ноксинский Спуск 14Б",
+      "lat": 55.7683718,
+      "lon": 49.2372317,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 78.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 83.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 85.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44220",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Родины 43Б",
+      "lat": 55.7692744,
+      "lon": 49.2094574,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_45488",
+      "name": "Татнефть",
+      "brand": "татнефть",
+      "address": "улица Сары Садыковой 65",
+      "lat": 55.7696548,
+      "lon": 49.1223623,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 64.4,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": false
+        },
+        "diesel": {
+          "price": 78.16,
+          "observedAt": "2026-10-27T20:17:06Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": false
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_45737",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "Спартаковская улица 8",
+      "lat": 55.7788974,
+      "lon": 49.1307478,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46850",
+      "name": "Irbis",
+      "brand": "irbis",
+      "address": "проспект Победы 194А",
+      "lat": 55.7932869,
+      "lon": 49.220428,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 74.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 79.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_46683",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Николая Ершова, 25Г",
+      "lat": 55.7936638,
+      "lon": 49.1658091,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 98.99,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "98",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_45934",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Ташаяк, 4",
+      "lat": 55.7943173,
+      "lon": 49.0964894,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_45650",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Космонавтов, 59Б",
+      "lat": 55.795261,
+      "lon": 49.2037982,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_47529",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "улица Клары Цеткин 23",
+      "lat": 55.7981331,
+      "lon": 49.056458,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "gb_44823",
+      "name": "Таиф-НК",
+      "brand": "таиф-нк",
+      "address": "проспект Победы, 155А",
+      "lat": 55.7986219,
+      "lon": 49.2125674,
+      "region": "Республика Татарстан",
+      "city": "Казань",
+      "prices": {
+        "ai92": {
+          "price": 68.75,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 74.85,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 98.99,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "98",
+          "stale": true
+        },
+        "diesel": {
+          "price": 78.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-27T20:37:56.489974+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-27T20:37:56.489974+00:00"
+    },
+    {
+      "id": "1097371378",
+      "name": "ОЛВИ",
+      "brand": "олви",
+      "address": "Уральская улица, 239",
+      "lat": 53.1275313,
+      "lon": 50.1697653,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 115.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 123.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.7,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "4940223224",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Уральская, 4",
+      "lat": 53.1345894,
+      "lon": 50.1120802,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 74.86,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Уральская, 4, Самара, Самарская обл., Россия, 443047 (Автоматическая)"
+        },
+        "ai95": {
+          "price": 65.85,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Уральская, 4, Самара, Самарская обл., Россия, 443047 (Автоматическая)"
+        },
+        "ai92": {
+          "price": 60.4,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Уральская, 4, Самара, Самарская обл., Россия, 443047 (Автоматическая)"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_1fPMQtbeAdI",
+      "name": "Irbis",
+      "brand": "irbis",
+      "address": "ул Дзержинского, 29А",
+      "lat": 53.187650475205196,
+      "lon": 50.17397761350367,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 119.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 124.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "12216569808",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Буянова, 14Б",
+      "lat": 53.190318,
+      "lon": 50.1155659,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 62.59,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Буянова, 14Б, Самара, Самарская обл., Россия, 443041"
+        },
+        "ai95": {
+          "price": 55.44,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Буянова, 14Б, Самара, Самарская обл., Россия, 443041"
+        },
+        "ai92": {
+          "price": 50.84,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Буянова, 14Б, Самара, Самарская обл., Россия, 443041"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_cP8ugxOCfkI",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "пр-кт Кирова, 5",
+      "lat": 53.192789091381826,
+      "lon": 50.29480397701264,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 75.97,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "г. Самара, Проспект Кирова,  5"
+        },
+        "ai95": {
+          "price": 67.79,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "г. Самара, Проспект Кирова,  5"
+        },
+        "ai92": {
+          "price": 62.37,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "г. Самара, Проспект Кирова,  5"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1213953125",
+      "name": "IRBIS",
+      "brand": "irbis",
+      "address": "ул Владимирская, 29Б",
+      "lat": 53.192798,
+      "lon": 50.139018,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 119.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 124.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 139.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "100",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_I21WacrUKSY",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Антонова-Овсеенко, 52А",
+      "lat": 53.21317567847237,
+      "lon": 50.22262378172484,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 78,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Антонова-Овсеенко, 52A, Самара, Самарская обл., Россия, 443066"
+        },
+        "ai95": {
+          "price": 69.1,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Антонова-Овсеенко, 52A, Самара, Самарская обл., Россия, 443066"
+        },
+        "ai92": {
+          "price": 63.65,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Антонова-Овсеенко, 52A, Самара, Самарская обл., Россия, 443066"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_3OlHVlQHp-I",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Московское шоссе, 35А",
+      "lat": 53.21374705354533,
+      "lon": 50.18343606480637,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 62.59,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Московское ш., 35А, Самара, Самарская обл., Россия, 443080"
+        },
+        "ai95": {
+          "price": 55.44,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Московское ш., 35А, Самара, Самарская обл., Россия, 443080"
+        },
+        "ai92": {
+          "price": 50.84,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Московское ш., 35А, Самара, Самарская обл., Россия, 443080"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "12840772355",
+      "name": "Олви",
+      "brand": "олви",
+      "address": "ул 22 Партсъезда, 41",
+      "lat": 53.2156308,
+      "lon": 50.2250862,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 115.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 123.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.7,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "10083068908",
+      "name": "Татнефть",
+      "brand": "татнефть",
+      "address": "ул Ново-Садовая, 311в",
+      "lat": 53.2383588,
+      "lon": 50.1956534,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 63.6,
+          "observedAt": "2026-10-28T07:47:22Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": false
+        },
+        "diesel": {
+          "price": 85.35,
+          "observedAt": "2026-10-28T07:47:22Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": false
+        },
+        "ai95": {
+          "price": 52.55,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Ново-Садовая, 311В"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "12839666005",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Московское шоссе, 232",
+      "lat": 53.2411108,
+      "lon": 50.2064021,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 78,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Московское ш., 232, Самара, Самарская обл., Россия, 443125"
+        },
+        "ai92": {
+          "price": 63.65,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Московское ш., 232, Самара, Самарская обл., Россия, 443125"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "10114498321",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Стара Загора, 299А",
+      "lat": 53.2554276,
+      "lon": 50.2620862,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 80,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Стара-Загора, 299А, Самара, Самарская обл., Россия, 443106"
+        },
+        "ai95": {
+          "price": 70.36,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Стара-Загора, 299А, Самара, Самарская обл., Россия, 443106"
+        },
+        "ai92": {
+          "price": 64.54,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Стара-Загора, 299А, Самара, Самарская обл., Россия, 443106"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "10981661599",
+      "name": "Роза мира",
+      "brand": "роза мира",
+      "address": "ул Ташкентская, 161",
+      "lat": 53.2606189,
+      "lon": 50.2409224,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 115.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 119.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 92.15,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "100",
+          "stale": true
+        },
+        "diesel": {
+          "price": 110.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1558221043",
+      "name": "Олви",
+      "brand": "олви",
+      "address": "Ракитовское шоссе, 90",
+      "lat": 53.2646765,
+      "lon": 50.2857891,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 115.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 123.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.7,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "10654426906",
+      "name": "Irbis",
+      "brand": "irbis",
+      "address": "шоссе Московское (п Мехзавод), 2",
+      "lat": 53.2873117,
+      "lon": 50.284368,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 119.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 124.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 139.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "100",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_FgzYFFFA_o4",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Демократическая, 69",
+      "lat": 53.28868504583684,
+      "lon": 50.22556476299088,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 78,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Демократическая, 69, Самара, Самарская обл., Россия, 443031"
+        },
+        "ai95": {
+          "price": 69.1,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Демократическая, 69, Самара, Самарская обл., Россия, 443031"
+        },
+        "ai92": {
+          "price": 63.65,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Демократическая, 69, Самара, Самарская обл., Россия, 443031"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1498540280",
+      "name": "Олви",
+      "brand": "олви",
+      "address": "Волжское шоссе, 5",
+      "lat": 53.34344,
+      "lon": 50.2342326,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 109.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 123.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_sAqxtroxCq4",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Красноглинское шоссе, 5а",
+      "lat": 53.354170495294895,
+      "lon": 50.21064739960893,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "diesel": {
+          "price": 62.59,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Красноглинское ш., 5А, Самара, Самарская обл., Россия, 443112"
+        },
+        "ai95": {
+          "price": 55.44,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Красноглинское ш., 5А, Самара, Самарская обл., Россия, 443112"
+        },
+        "ai92": {
+          "price": 50.84,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/samara/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Красноглинское ш., 5А, Самара, Самарская обл., Россия, 443112"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_WIK0XJaP9ro",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Южное шоссе, 4А",
+      "lat": 53.124325515992204,
+      "lon": 50.16930341720581,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "w43121013",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "Уральское шоссе, 14",
+      "lat": 53.1251232,
+      "lon": 50.1848981,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1097448622",
+      "name": "ОЛВИ",
+      "brand": "олви",
+      "address": "ул Уральская, 233",
+      "lat": 53.1289052,
+      "lon": 50.1548289,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 115.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 123.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.7,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "11964580635",
+      "name": "АЗС-робот",
+      "brand": "азс-робот",
+      "address": "Южное шоссе, 5Б",
+      "lat": 53.1367323,
+      "lon": 50.1746396,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_wKjPHk_piw8",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Болотная, 71",
+      "lat": 53.13887483872818,
+      "lon": 50.10378132785477,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "11210153699",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Южное шоссе, 8",
+      "lat": 53.1423761,
+      "lon": 50.1808706,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_lFlzr3XMbbc",
+      "name": "Внп+",
+      "brand": "внп+",
+      "address": "ул Белорусская, 95а/1",
+      "lat": 53.14397659219775,
+      "lon": 50.05088159839764,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 109.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 124.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 99.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_Z7Y5oX4C59Q",
+      "name": "Татнефть",
+      "brand": "татнефть",
+      "address": "Южное шоссе, 3/1",
+      "lat": 53.145101,
+      "lon": 50.181835,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 63.6,
+          "observedAt": "2026-10-28T07:47:22Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": false
+        },
+        "ai98": {
+          "price": 99.99,
+          "observedAt": "2026-10-28T07:47:22Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "98",
+          "stale": false
+        },
+        "diesel": {
+          "price": 85.35,
+          "observedAt": "2026-10-28T07:47:22Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": false
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "13153709728",
+      "name": "Irbis",
+      "brand": "irbis",
+      "address": "ул Белорусская, 136",
+      "lat": 53.145241,
+      "lon": 50.029181,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {
+        "ai92": {
+          "price": 119.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 124.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 139.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "100",
+          "stale": true
+        },
+        "diesel": {
+          "price": 89.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "5081541184",
+      "name": "ВДНХ",
+      "brand": "вднх",
+      "address": "ул Белорусская, 88",
+      "lat": 53.1470013,
+      "lon": 50.0571498,
+      "region": "Самарская область",
+      "city": "Самара",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_43862",
+      "name": "Калина ойл",
+      "brand": "калина ойл",
+      "address": "улица Дубровина, 26",
+      "lat": 51.5864858,
+      "lon": 39.254468,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 62.8,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Воронежская обл., г. Воронеж, ул. Дубровина, д. 26"
+        },
+        "ai95": {
+          "price": 56.95,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Воронежская обл., г. Воронеж, ул. Дубровина, д. 26"
+        },
+        "ai92": {
+          "price": 51.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Воронежская обл., г. Воронеж, ул. Дубровина, д. 26"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_45935",
+      "name": "Teboil",
+      "brand": "teboil",
+      "address": "улица Корольковой, 11Г",
+      "lat": 51.5913083,
+      "lon": 39.2490615,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "ai92": {
+          "price": 80.3,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 87.2,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 88.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48138",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Ильюшина, 17",
+      "lat": 51.6273444,
+      "lon": 39.2859136,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 75.35,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Ильюшина, 17, Воронеж, Воронежская обл., Россия, 394072"
+        },
+        "ai95": {
+          "price": 68.23,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Ильюшина, 17, Воронеж, Воронежская обл., Россия, 394072"
+        },
+        "ai92": {
+          "price": 62.72,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Ильюшина, 17, Воронеж, Воронежская обл., Россия, 394072"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48134",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Грамши, 2Г",
+      "lat": 51.6331869,
+      "lon": 39.1825097,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 75.35,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Грамши, 2Г, Воронеж, Воронежская обл., Россия, 394031"
+        },
+        "ai95": {
+          "price": 68.23,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Грамши, 2Г, Воронеж, Воронежская обл., Россия, 394031"
+        },
+        "ai92": {
+          "price": 62.72,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Грамши, 2Г, Воронеж, Воронежская обл., Россия, 394031"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_38753",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "проспект Патриотов, 69",
+      "lat": 51.6480974,
+      "lon": 39.0948091,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 78.1,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "пр-т. Патриотов, 69, Воронеж, Воронежская обл., Россия, 394091"
+        },
+        "ai95": {
+          "price": 72.1,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "пр-т. Патриотов, 69, Воронеж, Воронежская обл., Россия, 394091"
+        },
+        "ai92": {
+          "price": 66.7,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "пр-т. Патриотов, 69, Воронеж, Воронежская обл., Россия, 394091"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48135",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Героев Сибиряков, 20А",
+      "lat": 51.6561647,
+      "lon": 39.1349905,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 75.35,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Героев Сибиряков, 20А, Воронеж, Воронежская обл., Россия, 394062"
+        },
+        "ai95": {
+          "price": 68.23,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Героев Сибиряков, 20А, Воронеж, Воронежская обл., Россия, 394062"
+        },
+        "ai92": {
+          "price": 62.72,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Героев Сибиряков, 20А, Воронеж, Воронежская обл., Россия, 394062"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48132",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Ленинградская улица, 29В",
+      "lat": 51.6572831,
+      "lon": 39.2493555,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 75.35,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Ленинградская ул., 29В, Воронеж, Воронежская обл., Россия, 394033"
+        },
+        "ai95": {
+          "price": 68.23,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Ленинградская ул., 29В, Воронеж, Воронежская обл., Россия, 394033"
+        },
+        "ai92": {
+          "price": 62.72,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Ленинградская ул., 29В, Воронеж, Воронежская обл., Россия, 394033"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48110",
+      "name": "ВТК",
+      "brand": "втк",
+      "address": "Ленинский проспект, 126А",
+      "lat": 51.6750775,
+      "lon": 39.2564175,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 90.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        },
+        "ai95": {
+          "price": 56.1,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Воронеж, Ленинский проспект, 126а"
+        },
+        "ai92": {
+          "price": 51.2,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Воронеж, Ленинский проспект, 126а"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48450",
+      "name": "ВТК",
+      "brand": "втк",
+      "address": "улица Остужева 2Е",
+      "lat": 51.6876233,
+      "lon": 39.254557,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "diesel": {
+          "price": 89.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        },
+        "ai95": {
+          "price": 55.4,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Воронеж, ул. Остужева 2Е."
+        },
+        "ai92": {
+          "price": 50.5,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/voronezh/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Воронеж, ул. Остужева 2Е."
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_38835",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "Острогожская улица",
+      "lat": 51.5598198,
+      "lon": 39.1103003,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "ai92": {
+          "price": 110.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 130.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "ai98": {
+          "price": 94.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "100",
+          "stale": true
+        },
+        "diesel": {
+          "price": 85.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48479",
+      "name": "АГЗС",
+      "brand": "агзс",
+      "address": "Острогожская улица 166Е/2",
+      "lat": 51.5684577,
+      "lon": 39.1288409,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48660",
+      "name": "Калина ойл",
+      "brand": "калина ойл",
+      "address": "улица Дубровина",
+      "lat": 51.590873,
+      "lon": 39.251164,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "ai92": {
+          "price": 124.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 109.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_43863",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "улица Корольковой",
+      "lat": 51.5950443,
+      "lon": 39.2489443,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_45261",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "улица Дубровина",
+      "lat": 51.5957315,
+      "lon": 39.252002,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48493",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "Новосибирская улица 88А",
+      "lat": 51.5988856,
+      "lon": 39.2358787,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {
+        "ai92": {
+          "price": 124.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 109.0,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_48080",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Новосибирская улица",
+      "lat": 51.5991621,
+      "lon": 39.2464659,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_44874",
+      "name": "Интрансгаз",
+      "brand": "интрансгаз",
+      "address": "улица Дубровина, 19",
+      "lat": 51.6020527,
+      "lon": 39.2541658,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_44585",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "1-я улица",
+      "lat": 51.6028938,
+      "lon": 39.2358642,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_43861",
+      "name": "Агнкс метан",
+      "brand": "агнкс метан",
+      "address": "Балашовская улица",
+      "lat": 51.6030694,
+      "lon": 39.2192765,
+      "region": "Воронежская область",
+      "city": "Воронеж",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_axMUNvwTr-k",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Лазоревая, 291",
+      "lat": 48.537289560587524,
+      "lon": 44.46366950345692,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_D4IzyaNgkFs",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "ул Лазоревая, 291",
+      "lat": 48.537668117048,
+      "lon": 44.46523530761673,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1112609727",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул 64-й Армии, 50а",
+      "lat": 48.6247991,
+      "lon": 44.4266738,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. 64 Армии, 50А, Волгоград, Волгоградская обл., Россия, 400079"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. 64 Армии, 50А, Волгоград, Волгоградская обл., Россия, 400079"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. 64 Армии, 50А, Волгоград, Волгоградская обл., Россия, 400079"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_UvhLvEmXlaI",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Автомобилистов, 12а",
+      "lat": 48.646892625292296,
+      "lon": 44.434745907783515,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Автомобилистов, 12А, Волгоград, Волгоградская обл., Россия, 400062"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Автомобилистов, 12А, Волгоград, Волгоградская обл., Россия, 400062"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Автомобилистов, 12А, Волгоград, Волгоградская обл., Россия, 400062"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1349093973",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Автотранспортная, 1",
+      "lat": 48.6870344,
+      "lon": 44.452768,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Автотранспортная ул., 1, Волгоград, Волгоградская обл., Россия, 400054"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Автотранспортная ул., 1, Волгоград, Волгоградская обл., Россия, 400054"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Автотранспортная ул., 1, Волгоград, Волгоградская обл., Россия, 400054"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1705401346",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Социалистическая, 43",
+      "lat": 48.6943282,
+      "lon": 44.4859626,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 79.24,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Социалистическая ул., 43, Волгоград, Волгоградская обл., Россия, 400074"
+        },
+        "ai95": {
+          "price": 73.63,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Социалистическая ул., 43, Волгоград, Волгоградская обл., Россия, 400074"
+        },
+        "ai92": {
+          "price": 66.16,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Социалистическая ул., 43, Волгоград, Волгоградская обл., Россия, 400074"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1868494011",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Неждановой, 4Б",
+      "lat": 48.704019,
+      "lon": 44.4533063,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Неждановой, 4Б, Волгоград, Волгоградская обл., Россия, 400120"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Неждановой, 4Б, Волгоград, Волгоградская обл., Россия, 400120"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Неждановой, 4Б, Волгоград, Волгоградская обл., Россия, 400120"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1335318611",
+      "name": "ЯР-НЕФТЬ",
+      "brand": "яр-нефть",
+      "address": "ул им. Неждановой, 43",
+      "lat": 48.7044584,
+      "lon": 44.4315178,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 79.9,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        },
+        "ai95": {
+          "price": 57.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "А260 (М21), 10км, Волгоградская обл., г.Волгоград, ул. Неждановой, д.43, справа от Волгограда"
+        },
+        "ai92": {
+          "price": 54.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "А260 (М21), 10км, Волгоградская обл., г.Волгоград, ул. Неждановой, д.43, справа от Волгограда"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "432817343",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул им. Рокоссовского, 1Р",
+      "lat": 48.7095778,
+      "lon": 44.4897613,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. им. Рокоссовского, 1Р, Волгоград, Волгоградская обл., Россия, 400049"
+        },
+        "ai95": {
+          "price": 68.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. им. Рокоссовского, 1Р, Волгоград, Волгоградская обл., Россия, 400049"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. им. Рокоссовского, 1Р, Волгоград, Волгоградская обл., Россия, 400049"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_bQSuN2Wb6Ng",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул им. Пархоменко, 57а",
+      "lat": 48.72354268517334,
+      "lon": 44.526450634002686,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Пархоменко, 57А, Волгоград, Волгоградская обл., Россия, 400050"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Пархоменко, 57А, Волгоград, Волгоградская обл., Россия, 400050"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Пархоменко, 57А, Волгоград, Волгоградская обл., Россия, 400050"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_IjE-GZoJolw",
+      "name": "Teboil",
+      "brand": "teboil",
+      "address": "ул Ангарская, 162",
+      "lat": 48.729391,
+      "lon": 44.459898,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 76.58,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Волгоградская обл., Волгоград, ул. Ангарская, д 162 "
+        },
+        "ai95": {
+          "price": 70.71,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Волгоградская обл., Волгоград, ул. Ангарская, д 162 "
+        },
+        "ai92": {
+          "price": 64.61,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Волгоградская обл., Волгоград, ул. Ангарская, д 162 "
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "530809436",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Рокоссовского, 80А",
+      "lat": 48.7339521,
+      "lon": 44.5307297,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. им. Рокоссовского, 80А, Волгоград, Волгоградская обл., Россия, 400050"
+        },
+        "ai95": {
+          "price": 68.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. им. Рокоссовского, 80А, Волгоград, Волгоградская обл., Россия, 400050"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. им. Рокоссовского, 80А, Волгоград, Волгоградская обл., Россия, 400050"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_B8siIDWFjfE",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "пр-кт им. Маршала Советского Союза Г.К. Жукова, 94а",
+      "lat": 48.73937005872538,
+      "lon": 44.49252024295219,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "просп. Маршала Жукова, 94А, Волгоград, Волгоградская обл., Россия, 400010"
+        },
+        "ai95": {
+          "price": 68.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "просп. Маршала Жукова, 94А, Волгоград, Волгоградская обл., Россия, 400010"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "просп. Маршала Жукова, 94А, Волгоград, Волгоградская обл., Россия, 400010"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "3323586127",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "улица Землячки, 12Б",
+      "lat": 48.745153,
+      "lon": 44.465961,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "610917198",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "шоссе Авиаторов, 1Д",
+      "lat": 48.7557081,
+      "lon": 44.4763937,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ш. Авиаторов, 1Д, Волгоград, Волгоградская обл., Россия, 400075"
+        },
+        "ai95": {
+          "price": 68.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ш. Авиаторов, 1Д, Волгоград, Волгоградская обл., Россия, 400075"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ш. Авиаторов, 1Д, Волгоград, Волгоградская обл., Россия, 400075"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1340947723",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "шоссе Авиаторов, 18А",
+      "lat": 48.7584237,
+      "lon": 44.4424389,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ш. Авиаторов, 18А, Волгоград, Волгоградская обл., Россия, 400048"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ш. Авиаторов, 18А, Волгоград, Волгоградская обл., Россия, 400048"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ш. Авиаторов, 18А, Волгоград, Волгоградская обл., Россия, 400048"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1394428257",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Землячки, 74Б",
+      "lat": 48.761157,
+      "lon": 44.5093124,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "АЗС \"Лукойл\", ул. им. Землячки, 74Б, Волгоград, Волгоградская обл., Россия, 400094"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "АЗС \"Лукойл\", ул. им. Землячки, 74Б, Волгоград, Волгоградская обл., Россия, 400094"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "АЗС \"Лукойл\", ул. им. Землячки, 74Б, Волгоград, Волгоградская обл., Россия, 400094"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_WQeQdkANwUg",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "пр-кт им. В.И. Ленина, 111б",
+      "lat": 48.77180029695985,
+      "lon": 44.56719875335694,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "пр. имени В.И. Ленина, 111б, Волгоград, Волгоградская обл., Россия, 400105"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "пр. имени В.И. Ленина, 111б, Волгоград, Волгоградская обл., Россия, 400105"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "пр. имени В.И. Ленина, 111б, Волгоград, Волгоградская обл., Россия, 400105"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1112947330",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Маршала Еременко, 49А",
+      "lat": 48.7884765,
+      "lon": 44.5721649,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Маршала Еременко, 49А, Волгоград, Волгоградская обл., Россия, 400065"
+        },
+        "ai95": {
+          "price": 68.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Маршала Еременко, 49А, Волгоград, Волгоградская обл., Россия, 400065"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Маршала Еременко, 49А, Волгоград, Волгоградская обл., Россия, 400065"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1297080239",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул им. Менжинского, 15А",
+      "lat": 48.8133599,
+      "lon": 44.6185035,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Менжинского, 15а, Волгоград, Волгоградская обл., Россия, 400121"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Менжинского, 15а, Волгоград, Волгоградская обл., Россия, 400121"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Менжинского, 15а, Волгоград, Волгоградская обл., Россия, 400121"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "2354598632",
+      "name": "Газэнергосеть Газпром",
+      "brand": "газпром",
+      "address": "улица Шурухина, 67",
+      "lat": 48.8247718,
+      "lon": 44.6007691,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "2354598623",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул им. Шурухина, 66",
+      "lat": 48.8269947,
+      "lon": 44.6028703,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 74.26,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "улица Шурухина, 66, Волгоград, Россия"
+        },
+        "ai95": {
+          "price": 68.9,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "улица Шурухина, 66, Волгоград, Россия"
+        },
+        "ai92": {
+          "price": 61.91,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "улица Шурухина, 66, Волгоград, Россия"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1307609048",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "Латошинская улица, 44",
+      "lat": 48.8587495,
+      "lon": 44.650094,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "diesel": {
+          "price": 78.05,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Латошинская ул., 44, Волгоград, Волгоградская обл., Россия, 400039"
+        },
+        "ai95": {
+          "price": 73.15,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Латошинская ул., 44, Волгоград, Волгоградская обл., Россия, 400039"
+        },
+        "ai92": {
+          "price": 66.95,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/volgograd/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Латошинская ул., 44, Волгоград, Волгоградская обл., Россия, 400039"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "11817227829",
+      "name": "europlus",
+      "brand": "europlus",
+      "address": "ул им. Джека Лондона, 4",
+      "lat": 48.5352448,
+      "lon": 44.6048798,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "4837979124",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "ул Аксайская, 38",
+      "lat": 48.5433844,
+      "lon": 44.4552669,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1629297296",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "ул Лазоревая, 358",
+      "lat": 48.5573224,
+      "lon": 44.4432293,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "913845270",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул Лазоревая, 366а",
+      "lat": 48.559515,
+      "lon": 44.4404002,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "913845331",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "ул им. Михаила Фрунзе, 28",
+      "lat": 48.5596627,
+      "lon": 44.4378831,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1629291715",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "ул им. Саши Чекалина, 83Д",
+      "lat": 48.5649939,
+      "lon": 44.4360413,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "7247288108",
+      "name": "Teboil",
+      "brand": "teboil",
+      "address": "Лимоновая улица, 16",
+      "lat": 48.5855411,
+      "lon": 44.4223032,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "1121861582",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "ул Колосовая, 8Д",
+      "lat": 48.5961045,
+      "lon": 44.4216207,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "4370766101",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "ул Колосовая, 45",
+      "lat": 48.5972299,
+      "lon": 44.4209314,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {
+        "ai92": {
+          "price": 62.95,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "ai95": {
+          "price": 70.25,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "95",
+          "stale": true
+        },
+        "diesel": {
+          "price": 76.4,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "usr_OQ0iZ8QghtI",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "ул им. Кирова, 101г",
+      "lat": 48.602569,
+      "lon": 44.428033,
+      "region": "Волгоградская область",
+      "city": "Волгоград",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_14360",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Российский проспект 7",
+      "lat": 45.0165375,
+      "lon": 41.8937527,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {
+        "diesel": {
+          "price": 75.57,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "Российский пр-кт 7, Промышленный р-н, г.Ставрополь, Ставропольский край, Россия"
+        },
+        "ai95": {
+          "price": 69.86,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "Российский пр-кт 7, Промышленный р-н, г.Ставрополь, Ставропольский край, Россия"
+        },
+        "ai92": {
+          "price": 63.41,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "Российский пр-кт 7, Промышленный р-н, г.Ставрополь, Ставропольский край, Россия"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_11245",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Лермонтова, 352",
+      "lat": 45.0340382,
+      "lon": 41.9136857,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {
+        "diesel": {
+          "price": 75.57,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Лермонтова, 352, Ставрополь, Ставропольский край, Россия, 355029"
+        },
+        "ai95": {
+          "price": 69.86,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Лермонтова, 352, Ставрополь, Ставропольский край, Россия, 355029"
+        },
+        "ai92": {
+          "price": 63.41,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Лермонтова, 352, Ставрополь, Ставропольский край, Россия, 355029"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_11259",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Лермонтова, 80А",
+      "lat": 45.0367119,
+      "lon": 41.9826771,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {
+        "diesel": {
+          "price": 75.57,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "ул. Лермонтова, 80А, Ставрополь, Ставропольский край, Россия, 355017"
+        },
+        "ai95": {
+          "price": 69.86,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "ул. Лермонтова, 80А, Ставрополь, Ставропольский край, Россия, 355017"
+        },
+        "ai92": {
+          "price": 63.41,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "ул. Лермонтова, 80А, Ставрополь, Ставропольский край, Россия, 355017"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_11043",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "проспект Кулакова, 7В",
+      "lat": 45.0461053,
+      "lon": 41.9123924,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {
+        "diesel": {
+          "price": 80.76,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "пр-т Кулакова, 7В, Ставрополь, Ставропольский край, Россия, 355035"
+        },
+        "ai95": {
+          "price": 74.65,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "пр-т Кулакова, 7В, Ставрополь, Ставропольский край, Россия, 355035"
+        },
+        "ai92": {
+          "price": 67.76,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "пр-т Кулакова, 7В, Ставрополь, Ставропольский край, Россия, 355035"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_13374",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "Двойной проезд 1А",
+      "lat": 45.0590299,
+      "lon": 41.9371499,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {
+        "diesel": {
+          "price": 74.95,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "ДТ",
+          "stale": false,
+          "referenceAddress": "1А, Двойной проезд, Ставрополь, Ставропольский край, Россия, 355018"
+        },
+        "ai95": {
+          "price": 69.86,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-95",
+          "stale": false,
+          "referenceAddress": "1А, Двойной проезд, Ставрополь, Ставропольский край, Россия, 355018"
+        },
+        "ai92": {
+          "price": 63.41,
+          "observedAt": null,
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "ПетролПлюс",
+          "url": "https://www.petrolplus.ru/fuelstations/stavropol/",
+          "grade": "Аи-92",
+          "stale": false,
+          "referenceAddress": "1А, Двойной проезд, Ставрополь, Ставропольский край, Россия, 355018"
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_10442",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "улица Ленина",
+      "lat": 44.9624604,
+      "lon": 41.9643422,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_10434",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "«Кавказ»",
+      "lat": 44.9788633,
+      "lon": 42.0003553,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_10552",
+      "name": "Роснефть",
+      "brand": "роснефть",
+      "address": "улица Южный Обход",
+      "lat": 44.981496,
+      "lon": 41.9954063,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_11392",
+      "name": "Газ",
+      "brand": "газ",
+      "address": "Северный проезд",
+      "lat": 44.9869454,
+      "lon": 42.0340802,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_11354",
+      "name": "АЗС",
+      "brand": "азс",
+      "address": "Магистральная улица",
+      "lat": 44.9879239,
+      "lon": 42.0371751,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_10517",
+      "name": "Октан",
+      "brand": "октан",
+      "address": "улица Южный Обход",
+      "lat": 44.9882925,
+      "lon": 41.922598,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_10516",
+      "name": "Ставнефть",
+      "brand": "ставнефть",
+      "address": "улица Аграрник-3",
+      "lat": 44.988461,
+      "lon": 41.9205547,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_10964",
+      "name": "Газпром",
+      "brand": "газпром",
+      "address": "улица Южный Обход",
+      "lat": 44.9887102,
+      "lon": 41.9262859,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {
+        "ai92": {
+          "price": 65.45,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "92",
+          "stale": true
+        },
+        "diesel": {
+          "price": 76.4,
+          "observedAt": "2026-08-14T04:52:51Z",
+          "retrievedAt": "2026-10-28T08:08:05.529787+00:00",
+          "source": "Бензас",
+          "url": "https://benzas.ru/",
+          "grade": "ДТ",
+          "stale": true
+        }
+      },
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    },
+    {
+      "id": "gb_12534",
+      "name": "Лукойл",
+      "brand": "лукойл",
+      "address": "улица Южный Обход",
+      "lat": 44.9891453,
+      "lon": 41.9530827,
+      "region": "Ставропольский край",
+      "city": "Ставрополь",
+      "prices": {},
+      "coordinateSource": "https://benzas.ru/",
+      "retrievedAt": "2026-10-28T08:08:05.529787+00:00"
+    }
+  ],
+  "scope": "Загруженные АЗС в указанных городах; не полное покрытие регионов. Дата получения не является датой обновления цены."
+}

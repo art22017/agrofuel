@@ -1,0 +1,6914 @@
+{
+  "asOf": "2026-10-27",
+  "sources": [
+    {
+      "id": "rosstat-sep28",
+      "title": "Росстат · 28 сентября 2026",
+      "url": "https://rosstat.gov.ru/storage/mediabank/153_30-09-2026.html",
+      "observedAt": "2026-09-28",
+      "publishedAt": "2026-09-30",
+      "kind": "official",
+      "unit": "RUB/l",
+      "scope": "Средние потребительские розничные цены; не предложения АЗС и не оптовые котировки"
+    },
+    {
+      "id": "rosstat-oct5",
+      "title": "Росстат · 5 октября 2026",
+      "url": "https://rosstat.gov.ru/storage/mediabank/156_07-10-2026.html",
+      "observedAt": "2026-10-05",
+      "publishedAt": "2026-10-07",
+      "kind": "official",
+      "unit": "RUB/l",
+      "scope": "Средние потребительские розничные цены; не предложения АЗС и не оптовые котировки"
+    },
+    {
+      "id": "rosstat-oct12",
+      "title": "Росстат · 12 октября 2026",
+      "url": "https://rosstat.gov.ru/storage/mediabank/159_14-10-2026.html",
+      "observedAt": "2026-10-12",
+      "publishedAt": "2026-10-14",
+      "kind": "official",
+      "unit": "RUB/l",
+      "scope": "Средние потребительские розничные цены; не предложения АЗС и не оптовые котировки"
+    },
+    {
+      "id": "rosstat-oct19",
+      "title": "Росстат · 19 октября 2026",
+      "url": "https://rosstat.gov.ru/storage/mediabank/163_21-10-2026.html",
+      "observedAt": "2026-10-19",
+      "publishedAt": "2026-10-21",
+      "kind": "official",
+      "unit": "RUB/l",
+      "scope": "Средние потребительские розничные цены; не предложения АЗС и не оптовые котировки"
+    }
+  ],
+  "observations": [
+    {
+      "region": "Российская Федерация",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 86.77,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 74.51,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 80.8,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 103.63,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 78.53,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 68.96,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 75.39,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 95.69,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.83,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 72.83,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 81.38,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 93.89,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.27,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 79.24,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 85.35,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 105.14,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 82.56,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 77.98,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 84.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 111.71,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 77.39,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 81.88,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 82.99,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 101.08,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 78.28,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 75.37,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 79.99,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.3,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.27,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 82.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 90.45,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 102.07,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.07,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 78.18,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 83.71,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 106.96,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.15,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 74.4,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 81.97,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.2,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 84.11,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 74.61,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 81.65,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 105.89,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 77.28,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 66.87,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 73.17,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.98,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 82.83,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 80.26,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 87.05,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 114.48,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 79.72,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 76.08,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 81.96,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.22,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 87.2,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 82.36,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 92.07,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 104.35,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.36,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 70.43,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.36,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.94,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.97,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 81.92,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 89.29,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 97.8,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 78.43,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 66.49,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 70.21,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 96.07,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.27,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 69.18,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 75.79,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.63,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 86.19,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 70.82,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.51,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.65,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 64.21,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 68.27,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.94,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 89.08,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 70.46,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.31,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 84.17,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 69.26,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 75.68,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.44,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 83.39,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 86.26,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 90.79,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 101.99,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 82.71,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 72.13,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.97,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.27,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.28,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 71.03,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.59,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.85,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 89.04,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 74.05,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 78.81,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 101.9,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.75,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 65.43,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 69.92,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.5,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.15,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 65.26,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 69.99,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.28,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.03,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 65.6,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 71.29,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 101.65,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 77.71,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 70.45,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.85,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 93.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 96.88,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 115.15,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 104.78,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 107.35,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 108.7,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 140.29,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 272.59,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 79.72,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 77.31,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 83.96,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 114.56,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 79.94,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 76.96,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 83.5,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.38,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 78.41,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 68.77,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.03,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 96.9,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 79.87,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 79.46,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 87.25,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 101.85,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.33,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 64.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 69.65,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.29,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.66,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 74.62,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 83.24,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 105.3,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 87.89,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 81.62,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 90.36,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.69,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 82.94,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 80.89,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 89.69,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.55,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 78.67,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 70.75,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 79.91,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 97.86,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 81.14,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 67.48,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 71.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 80.33,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 71.01,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 77.27,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 108.12,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 83.91,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 79.73,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 83.73,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.62,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 83.54,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 76.22,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 83.83,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 129.03,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 79.44,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 68.88,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 75.31,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.11,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 79.8,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 69.39,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 78.43,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.2,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 84.29,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 74.13,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 77.53,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.63,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 95.22,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 83.25,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 91.37,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.35,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 85.08,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 73.76,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 77.4,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 96.81,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 84.99,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 67.6,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 71.36,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 100.96,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 106.98,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 90.85,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 94.17,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 131.86,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 99.0,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 81.54,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 88.26,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 99.84,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 110.06,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 100.62,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 103.19,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 121.68,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 94.04,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 80.43,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 85.18,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.24,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 90.01,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 72.98,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 75.72,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 88.56,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 92.62,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 78.02,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 82.64,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 98.68,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Магаданская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 125.87,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Магаданская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 86.16,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Магаданская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 87.85,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 106.02,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 82.33,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 89.01,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 111.23,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 93.73,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 76.62,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 76.12,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-09-28",
+      "fuel": "ai98",
+      "price": 89.03,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чукотский авт. округ",
+      "date": "2026-09-28",
+      "fuel": "diesel",
+      "price": 78.0,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чукотский авт. округ",
+      "date": "2026-09-28",
+      "fuel": "ai92",
+      "price": 76.0,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Чукотский авт. округ",
+      "date": "2026-09-28",
+      "fuel": "ai95",
+      "price": 79.0,
+      "source": "rosstat-sep28"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 86.72,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 74.72,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.03,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 104.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 69.01,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 75.39,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 95.69,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.86,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 72.89,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.38,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 93.89,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.42,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 78.45,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 84.74,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 105.14,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 82.27,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 78.01,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 84.79,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 111.88,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 77.71,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 85.75,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 85.55,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 101.08,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.3,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.26,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 80.12,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.3,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.25,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 83.64,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 90.83,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 102.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.08,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 78.15,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 83.52,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 106.96,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.09,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 73.44,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.79,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.2,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 84.14,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 75.48,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 82.59,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 106.95,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 77.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 66.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 73.21,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.98,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 82.78,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 80.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 87.12,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 114.48,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 79.61,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.2,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.96,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 100.22,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 87.22,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 82.39,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 91.5,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 104.35,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.39,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 71.99,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.37,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 100.27,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.51,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 81.53,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 89.9,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 97.8,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.59,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 66.87,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 70.25,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.18,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.29,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 69.84,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.27,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 102.05,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 86.22,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 71.07,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.82,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.65,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 64.21,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 68.27,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 89.08,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 70.46,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.31,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 84.15,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 69.05,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 75.09,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 83.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 86.73,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 92.72,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 103.17,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 82.71,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 72.13,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.97,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.27,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.97,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 70.98,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.46,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.9,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 89.1,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 74.08,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 78.86,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 102.4,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.76,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 65.44,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 69.93,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.5,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.22,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 65.3,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 70.03,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 100.28,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.08,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 65.64,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 71.33,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 101.65,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 77.71,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 70.45,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.85,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 93.5,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 95.66,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 115.15,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 104.78,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 105.7,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 108.35,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 140.24,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 276.38,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.53,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 83.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 114.28,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 79.59,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.54,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 83.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.38,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.41,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 68.77,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.03,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 96.9,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 79.49,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 78.31,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 86.21,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 107.61,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 116.8,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 117.67,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 141.55,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 247.86,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 98.25,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 118.51,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 126.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 152.4,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 77.34,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 98.89,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 107.46,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 102.43,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 89.43,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 100.5,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 108.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 129.38,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 77.21,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 80.06,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 85.67,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 109.37,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.89,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 79.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 88.92,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 103.16,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 102.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 102.64,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 107.83,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 119.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 84.49,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 77.76,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 85.56,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.92,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.49,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 64.61,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 69.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.01,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.44,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 73.61,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 83.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 104.63,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 79.28,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 87.64,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.46,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.24,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 68.8,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 74.04,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.25,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 81.33,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 64.86,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 69.65,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.29,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.3,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 72.13,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.76,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 105.3,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 87.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 80.83,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 90.38,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 82.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 81.99,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 91.22,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 102.8,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.71,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 73.66,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.75,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 67.54,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 71.76,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.0,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.33,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 70.86,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 77.13,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 108.12,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 83.61,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 79.71,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 83.76,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 83.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.27,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 83.83,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 129.03,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 79.17,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 68.46,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 74.81,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 100.11,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 79.81,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 69.15,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 78.22,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 84.33,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 74.17,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 77.72,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.77,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 95.1,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 83.52,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 91.94,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 100.82,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 88.83,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 75.82,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 81.04,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 96.74,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 80.78,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 69.43,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.95,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 102.01,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 93.63,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 83.56,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 91.32,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 103.52,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 102.0,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 109.93,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 116.48,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 132.67,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 86.44,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 79.95,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 88.21,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 107.49,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 83.65,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 73.39,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 77.89,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 104.17,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 91.83,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 83.75,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 89.02,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 108.98,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 86.4,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 67.67,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 71.95,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 110.33,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 82.06,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 69.71,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 75.57,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 110.24,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 85.18,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 80.84,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 88.3,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 115.4,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 79.63,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 61.79,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 67.08,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 93.6,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 85.12,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 73.82,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 77.9,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 104.37,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 85.02,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 67.63,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 71.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Бурятия",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 100.96,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 113.24,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 95.29,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 99.41,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 119.15,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 98.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 81.55,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 88.26,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Забайкальский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 99.91,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 110.06,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 100.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 103.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Камчатский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 121.68,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 93.88,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 80.19,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 85.18,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Приморский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.24,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 90.01,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 72.98,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 75.72,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Хабаровский край",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 88.56,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 92.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 78.02,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 82.64,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Амурская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 98.68,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Магаданская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 125.87,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Магаданская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 86.16,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Магаданская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 87.85,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 106.02,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 82.33,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 89.01,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Сахалинская область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 111.23,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 93.73,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.62,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 76.12,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Еврейская авт. область",
+      "date": "2026-10-05",
+      "fuel": "ai98",
+      "price": 89.03,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чукотский авт. округ",
+      "date": "2026-10-05",
+      "fuel": "diesel",
+      "price": 78.0,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чукотский авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai92",
+      "price": 76.0,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Чукотский авт. округ",
+      "date": "2026-10-05",
+      "fuel": "ai95",
+      "price": 79.0,
+      "source": "rosstat-oct5"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 76.58,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 83.76,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 114.28,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 79.06,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 75.13,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 82.08,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 114.03,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Краснодарский край",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.16,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 77.13,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 85.42,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 111.49,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 78.47,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 76.07,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 83.45,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 111.49,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ростовская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.2,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 77.99,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 85.71,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 99.92,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 84.64,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 77.87,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 85.76,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.92,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ставропольский край",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 84.64,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 78.11,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 85.28,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 111.88,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 83.22,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 78.03,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 85.25,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 111.88,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Воронежская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.27,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 69.22,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 74.66,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 95.69,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 78.93,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 69.06,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 74.52,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 95.69,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Белгородская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.0,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 69.01,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 74.23,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 100.94,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 80.3,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 69.04,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 74.27,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.94,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Татарстан",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.34,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 64.75,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 69.41,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 98.01,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 78.56,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 65.17,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 69.88,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.43,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.97,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 74.16,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 78.36,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 105.16,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 83.74,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 73.57,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 78.32,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 105.21,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Алтайский край",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.79,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 68.93,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 76.34,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 97.17,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 78.65,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 69.11,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.41,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 97.32,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Волгоградская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.81,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 76.2,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 83.65,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 129.03,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 83.82,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 75.58,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 82.85,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 129.03,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Саратовская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.31,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 62.03,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 67.39,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 96.73,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 79.82,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 62.45,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 67.88,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 97.01,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Омская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.39,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 80.97,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 88.44,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 114.68,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 84.49,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 79.9,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 87.76,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 117.55,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новосибирская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 84.63,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 73.61,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 81.06,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 98.2,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 81.09,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 72.95,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 80.51,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.2,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Липецкая область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.81,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 67.19,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 73.59,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 99.69,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 77.12,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 67.42,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 73.76,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.69,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Орловская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 76.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 82.84,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 90.99,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 104.35,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 87.23,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 77.67,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 85.7,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 125.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тамбовская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 85.39,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 75.76,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 83.21,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 106.95,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 84.18,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 74.62,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 82.22,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 106.95,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Московская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 84.28,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 69.85,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 76.3,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 102.05,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 81.47,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 70.06,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.55,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 102.05,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Москва",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.64,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 65.95,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 71.63,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 101.14,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 81.43,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 66.33,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 72.04,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 101.33,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Санкт-Петербург",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.8,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 79.91,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 84.03,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 98.62,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 83.78,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 78.03,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 82.56,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.62,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Самарская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.31,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 68.02,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 72.88,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 98.97,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 80.82,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 67.66,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 72.8,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.15,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Оренбургская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.91,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 70.75,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 77.07,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 77.9,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 69.85,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.25,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Адыгея",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.15,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 93.31,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 110.4,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 105.26,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 87.33,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 93.08,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 110.12,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 110.17,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Калмыкия",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 87.32,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 70.66,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 76.7,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 108.12,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 80.35,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 70.71,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.77,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 106.64,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пензенская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.53,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 80.35,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 87.13,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 107.39,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 81.28,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 80.6,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 86.82,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 107.3,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-12",
+      "fuel": "ai92",
+      "price": 74.71,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-12",
+      "fuel": "ai95",
+      "price": 80.92,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-12",
+      "fuel": "ai98",
+      "price": 104.5,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-12",
+      "fuel": "diesel",
+      "price": 86.67,
+      "source": "rosstat-oct12"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 74.02,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 80.3,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 104.67,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Российская Федерация",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 86.58,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 74.23,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 82.01,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 94.6,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Брянская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.05,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 76.0,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 82.71,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 106.07,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Владимирская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 82.11,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 87.94,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 104.61,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ивановская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 77.95,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 73.31,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 77.05,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.3,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калужская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.43,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 81.7,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 90.27,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 102.32,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Костромская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.85,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 81.11,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 86.7,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 114.48,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Рязанская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.93,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 74.57,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 80.1,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.22,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Смоленская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 78.21,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 69.73,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.81,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.6,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тверская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.84,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 79.65,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 89.97,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 97.98,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тульская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.56,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 67.13,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 70.11,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.15,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ярославская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.25,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 71.53,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 77.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Карелия",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 86.57,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 64.81,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 69.73,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.13,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Коми",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 82.16,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 68.75,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 74.99,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.79,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Архангельская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 84.76,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 70.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.83,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 89.43,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 80.23,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 86.05,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 103.91,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Вологодская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.13,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 71.91,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.8,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.27,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Калининградская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.15,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 71.24,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.81,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.28,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ленинградская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.84,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 73.47,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 77.76,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 102.9,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Мурманская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 89.9,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 65.78,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 70.12,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.69,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Новгородская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.04,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 65.87,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 70.54,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.42,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Псковская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.72,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 106.55,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 127.06,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 267.61,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Крым",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 101.55,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 79.37,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 86.06,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.82,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Астраханская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.6,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 114.22,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 132.29,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 236.51,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "г. Севастополь",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 109.99,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 113.8,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 122.94,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 157.04,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Дагестан",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 95.55,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 88.32,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 97.67,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 103.31,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Ингушетия",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 75.34,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 99.1,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 107.8,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 129.48,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 85.46,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 78.1,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 84.99,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 103.51,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 77.92,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 78.15,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 87.79,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 103.17,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Северная Осетия - Алания",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.95,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 101.24,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 106.32,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 119.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чеченская Республика",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 101.91,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 71.63,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 78.9,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 102.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Марий Эл",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.33,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 77.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 84.33,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.82,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Мордовия",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.97,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 65.37,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 70.2,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.29,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Удмуртская Республика",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.54,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 70.91,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.94,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 101.24,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Чувашская Республика",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.3,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 79.71,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 87.21,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.62,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Пермский край",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 86.94,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 82.1,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 90.52,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 102.8,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кировская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.1,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 72.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 79.79,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 98.92,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Нижегородская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.2,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 68.95,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 74.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.11,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ульяновская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 64.77,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 70.84,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.59,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Курганская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 79.81,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 70.77,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 75.34,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 100.26,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Свердловская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.98,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 80.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 88.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 101.27,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Тюменская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 94.84,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ханты-Мансийский авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 78.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ханты-Мансийский авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 86.63,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ханты-Мансийский авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 96.88,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ханты-Мансийский авт. округ",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 96.42,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 77.04,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 81.9,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 101.07,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Ямало-Ненецкий авт. округ",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 90.33,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 67.47,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 74.38,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 101.34,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Челябинская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 80.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 84.39,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 96.47,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 99.65,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Алтай",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 93.63,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 113.34,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 119.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 142.2,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Тыва",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 101.65,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 80.09,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 83.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 113.19,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Республика Хакасия",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 85.3,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 82.12,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 87.16,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 109.94,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Красноярский край",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 90.49,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 68.24,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 72.47,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 110.75,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Иркутская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 86.4,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 69.75,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 75.39,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 109.96,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Кемеровская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 81.78,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-19",
+      "fuel": "ai92",
+      "price": 73.24,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-19",
+      "fuel": "ai95",
+      "price": 76.83,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-19",
+      "fuel": "ai98",
+      "price": 106.05,
+      "source": "rosstat-oct19"
+    },
+    {
+      "region": "Томская область",
+      "date": "2026-10-19",
+      "fuel": "diesel",
+      "price": 83.64,
+      "source": "rosstat-oct19"
+    }
+  ]
+}

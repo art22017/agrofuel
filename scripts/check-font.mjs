@@ -1,0 +1,2 @@
+import puppeteer from 'puppeteer-core';
+const b=await puppeteer.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});const p=await b.newPage();await p.goto('http://127.0.0.1:5193/',{waitUntil:'networkidle2'});console.log(await p.evaluate(()=>[document.documentElement,document.body,...document.querySelectorAll('button,input,h1,.product-name')].slice(0,12).map(e=>({tag:e.tagName,txt:e.textContent?.slice(0,20),font:getComputedStyle(e).fontFamily,token:getComputedStyle(e).getPropertyValue('--font-body')}))));await b.close();

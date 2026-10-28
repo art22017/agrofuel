@@ -1,0 +1,64 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+\usepackage{fontspec}
+\usepackage[russian]{babel}
+\usepackage{graphicx}
+\setsansfont{Ubuntu}
+\definecolor{paper}{HTML}{141B25}
+\definecolor{panel}{HTML}{1D2531}
+\definecolor{ink}{HTML}{DBE2F9}
+\definecolor{accent}{HTML}{87DF50}
+\setbeamercolor{background canvas}{bg=paper}
+\setbeamercolor{normal text}{fg=ink,bg=paper}
+\setbeamercolor{frametitle}{fg=ink}
+\setbeamercolor{structure}{fg=accent}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{\hfill\color{accent}\insertframenumber\hspace{8mm}\vspace{4mm}}
+\setbeamertemplate{frametitle}{\vspace{5mm}\insertframetitle}
+\setbeamersize{text margin left=9mm,text margin right=9mm}
+\newcommand{\screen}[2]{\begin{frame}{#1}\centering\includegraphics[width=.91\textwidth,height=.74\textheight,keepaspectratio]{../screenshots/#2.png}\end{frame}}
+\begin{document}
+\begin{frame}
+{\color{accent}\large Задача 2}\par\vspace{12mm}
+{\Huge АгроТопливо}\par\vspace{5mm}
+{\Large Мониторинг цен на топливо\\для сельхозтехники}\par\vspace{9mm}
+Регион, АЗС и стоимость закупки в одном сервисе.\par\vspace{8mm}
+{\small Учебная работа в визуальном стиле РСХБ. Не официальный продукт банка.\\29 октября 2026}
+\end{frame}
+\begin{frame}{От задачи к закупке}
+\large
+Выбрать регион и топливо.\par\vspace{6mm}
+Найти заправку в регионе, на трассе или рядом с хозяйством.\par\vspace{6mm}
+Проверить цену, источник и дату.\par\vspace{6mm}
+Рассчитать объём и стоимость заправки техники.
+\end{frame}
+\screen{Поиск: регион и топливо}{search}
+\screen{Обзор: карта, цена и бюджет}{market}
+\screen{АЗС по территории региона}{stations}
+\screen{Сравнение динамики регионов}{compare}
+\screen{Расчёт заправки и сезонной потребности}{planning}
+\begin{frame}{Данные, которые можно проверить}
+\begin{columns}[T]
+\begin{column}{.48\textwidth}
+{\color{accent}\large Региональные цены}\par\vspace{4mm}
+Росстат: официальные средние и динамика.\par\vspace{4mm}
+ПетролПлюс и Бензина.нет: 295 дополнительных значений в 77 регионах.\par\vspace{4mm}
+Индексы поставщиков показаны отдельно: выборки и даты различаются.
+\end{column}
+\begin{column}{.46\textwidth}
+{\color{accent}\large Карта и ограничения}\par\vspace{4mm}
+Бензас: координаты и опубликованные цены АЗС.\par\vspace{4mm}
+OpenStreetMap: подложка. geoBoundaries: границы.\par\vspace{4mm}
+Соты H3 окрашены только по доступным ценам. Пропуски не моделируются.
+\end{column}
+\end{columns}
+\vspace{6mm}{\footnotesize Источники: rosstat.gov.ru, petrolplus.ru/fuelindex, benzinanet.com/ceny, benzas.ru. Данные получены 29.10.2026; дата получения не равна дате цены.}
+\end{frame}
+\begin{frame}{Работающий сервис}
+{\Large React + TypeScript + Vite}\par\vspace{6mm}
+Карта региона, поиск АЗС, история цен, сравнение регионов, калькулятор и сохранённые расчёты.\par\vspace{6mm}
+{\color{accent}\large Публикация}\par\vspace{3mm}
+\href{https://github.com/art22017/agrofuel}{github.com/art22017/agrofuel}\par\vspace{5mm}
+Код, README, скриншоты, исходный LaTeX и PDF.\par\vspace{5mm}
+{\small Уведомления сохраняются в браузере. Автоматическая рассылка и регулярное обновление источников пока не подключены.}
+\end{frame}
+\end{document}

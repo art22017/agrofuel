@@ -1,0 +1,2952 @@
+[
+  {
+    "region": "г. Москва",
+    "fuel": "ai92",
+    "price": 65.43,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Москва",
+    "fuel": "ai95",
+    "price": 71.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Москва",
+    "fuel": "diesel",
+    "price": 80.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "ai92",
+    "price": 65.47,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "ai95",
+    "price": 70.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "diesel",
+    "price": 80.57,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Алтайский край",
+    "fuel": "ai92",
+    "price": 61.65,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Алтайский край",
+    "fuel": "ai95",
+    "price": 64.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Алтайский край",
+    "fuel": "diesel",
+    "price": 81.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Амурская область",
+    "fuel": "ai92",
+    "price": 72.88,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Амурская область",
+    "fuel": "ai95",
+    "price": 76.83,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Амурская область",
+    "fuel": "diesel",
+    "price": 90.18,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Архангельская область",
+    "fuel": "ai92",
+    "price": 65.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Архангельская область",
+    "fuel": "ai95",
+    "price": 70.4,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Архангельская область",
+    "fuel": "diesel",
+    "price": 83.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Астраханская область",
+    "fuel": "ai92",
+    "price": 65.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Астраханская область",
+    "fuel": "ai95",
+    "price": 71.45,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Астраханская область",
+    "fuel": "diesel",
+    "price": 77.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Белгородская область",
+    "fuel": "ai92",
+    "price": 64.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Белгородская область",
+    "fuel": "ai95",
+    "price": 69.95,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Белгородская область",
+    "fuel": "diesel",
+    "price": 77.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Брянская область",
+    "fuel": "ai92",
+    "price": 64.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Брянская область",
+    "fuel": "ai95",
+    "price": 69.95,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Брянская область",
+    "fuel": "diesel",
+    "price": 75.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Владимирская область",
+    "fuel": "ai92",
+    "price": 64.59,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Владимирская область",
+    "fuel": "ai95",
+    "price": 69.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Владимирская область",
+    "fuel": "diesel",
+    "price": 78.55,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "ai92",
+    "price": 65.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "ai95",
+    "price": 72.93,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "diesel",
+    "price": 79.37,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Вологодская область",
+    "fuel": "ai92",
+    "price": 66.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Вологодская область",
+    "fuel": "ai95",
+    "price": 71.02,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Вологодская область",
+    "fuel": "diesel",
+    "price": 84.93,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Воронежская область",
+    "fuel": "ai92",
+    "price": 65.4,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Воронежская область",
+    "fuel": "ai95",
+    "price": 70.75,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Воронежская область",
+    "fuel": "diesel",
+    "price": 77.1,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Забайкальский край",
+    "fuel": "ai92",
+    "price": 85.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Забайкальский край",
+    "fuel": "ai95",
+    "price": 94.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Забайкальский край",
+    "fuel": "diesel",
+    "price": 99.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ивановская область",
+    "fuel": "ai92",
+    "price": 64.04,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ивановская область",
+    "fuel": "ai95",
+    "price": 66.83,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ивановская область",
+    "fuel": "diesel",
+    "price": 77.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Иркутская область",
+    "fuel": "ai92",
+    "price": 65.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Иркутская область",
+    "fuel": "ai95",
+    "price": 68.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Иркутская область",
+    "fuel": "diesel",
+    "price": 85.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кабардино-Балкарская Республика",
+    "fuel": "ai92",
+    "price": 65.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кабардино-Балкарская Республика",
+    "fuel": "ai95",
+    "price": 70.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кабардино-Балкарская Республика",
+    "fuel": "diesel",
+    "price": 76.35,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Калининградская область",
+    "fuel": "ai92",
+    "price": 69.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Калининградская область",
+    "fuel": "ai95",
+    "price": 73.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Калининградская область",
+    "fuel": "diesel",
+    "price": 83.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Калужская область",
+    "fuel": "ai92",
+    "price": 62.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Калужская область",
+    "fuel": "ai95",
+    "price": 66.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Калужская область",
+    "fuel": "diesel",
+    "price": 77.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Камчатский край",
+    "fuel": "ai92",
+    "price": 77.98,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Камчатский край",
+    "fuel": "ai95",
+    "price": 83.45,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Камчатский край",
+    "fuel": "diesel",
+    "price": 97.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Карачаево-Черкесская Республика",
+    "fuel": "ai92",
+    "price": 65.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Карачаево-Черкесская Республика",
+    "fuel": "ai95",
+    "price": 70.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Карачаево-Черкесская Республика",
+    "fuel": "diesel",
+    "price": 75.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кемеровская область",
+    "fuel": "ai92",
+    "price": 62.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кемеровская область",
+    "fuel": "ai95",
+    "price": 67.09,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кемеровская область",
+    "fuel": "diesel",
+    "price": 80.49,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кировская область",
+    "fuel": "ai92",
+    "price": 99.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кировская область",
+    "fuel": "ai95",
+    "price": 110.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Кировская область",
+    "fuel": "diesel",
+    "price": 84.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Костромская область",
+    "fuel": "ai92",
+    "price": 64.14,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Костромская область",
+    "fuel": "ai95",
+    "price": 68.29,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Костромская область",
+    "fuel": "diesel",
+    "price": 79.29,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Краснодарский край",
+    "fuel": "ai92",
+    "price": 66.05,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Краснодарский край",
+    "fuel": "ai95",
+    "price": 72.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Краснодарский край",
+    "fuel": "diesel",
+    "price": 77.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "ai92",
+    "price": 92.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "ai95",
+    "price": 96.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "diesel",
+    "price": 89.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Курганская область",
+    "fuel": "ai92",
+    "price": 61.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Курганская область",
+    "fuel": "ai95",
+    "price": 67.1,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Курганская область",
+    "fuel": "diesel",
+    "price": 80.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Курская область",
+    "fuel": "ai92",
+    "price": 64.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Курская область",
+    "fuel": "ai95",
+    "price": 69.95,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Курская область",
+    "fuel": "diesel",
+    "price": 77.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "ai92",
+    "price": 65.56,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "ai95",
+    "price": 70.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "diesel",
+    "price": 80.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Липецкая область",
+    "fuel": "ai92",
+    "price": 64.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Липецкая область",
+    "fuel": "ai95",
+    "price": 69.75,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Липецкая область",
+    "fuel": "diesel",
+    "price": 76.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "ai92",
+    "price": 64.21,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "ai95",
+    "price": 70.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "diesel",
+    "price": 79.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Мурманская область",
+    "fuel": "ai92",
+    "price": 68.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Мурманская область",
+    "fuel": "ai95",
+    "price": 72.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Мурманская область",
+    "fuel": "diesel",
+    "price": 88.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "ai92",
+    "price": 64.65,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "ai95",
+    "price": 69.93,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "diesel",
+    "price": 78.86,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новгородская область",
+    "fuel": "ai92",
+    "price": 65.2,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новгородская область",
+    "fuel": "ai95",
+    "price": 69.84,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новгородская область",
+    "fuel": "diesel",
+    "price": 80.79,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "ai92",
+    "price": 63.36,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "ai95",
+    "price": 67.64,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "diesel",
+    "price": 83.62,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Омская область",
+    "fuel": "ai92",
+    "price": 61.54,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Омская область",
+    "fuel": "ai95",
+    "price": 66.36,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Омская область",
+    "fuel": "diesel",
+    "price": 79.53,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Оренбургская область",
+    "fuel": "ai92",
+    "price": 63.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Оренбургская область",
+    "fuel": "ai95",
+    "price": 68.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Оренбургская область",
+    "fuel": "diesel",
+    "price": 80.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Орловская область",
+    "fuel": "ai92",
+    "price": 64.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Орловская область",
+    "fuel": "ai95",
+    "price": 69.18,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Орловская область",
+    "fuel": "diesel",
+    "price": 75.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пензенская область",
+    "fuel": "ai92",
+    "price": 63.75,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пензенская область",
+    "fuel": "ai95",
+    "price": 68.35,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пензенская область",
+    "fuel": "diesel",
+    "price": 78.35,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пермский край",
+    "fuel": "ai92",
+    "price": 65.01,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пермский край",
+    "fuel": "ai95",
+    "price": 70.34,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пермский край",
+    "fuel": "diesel",
+    "price": 82.4,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Приморский край",
+    "fuel": "ai92",
+    "price": 73.47,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Приморский край",
+    "fuel": "ai95",
+    "price": 74.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Приморский край",
+    "fuel": "diesel",
+    "price": 89.37,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Псковская область",
+    "fuel": "ai92",
+    "price": 65.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Псковская область",
+    "fuel": "ai95",
+    "price": 70.1,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Псковская область",
+    "fuel": "diesel",
+    "price": 81.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Адыгея",
+    "fuel": "ai92",
+    "price": 66.35,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Адыгея",
+    "fuel": "ai95",
+    "price": 72.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Адыгея",
+    "fuel": "diesel",
+    "price": 77.71,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Алтай",
+    "fuel": "ai92",
+    "price": 84.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Алтай",
+    "fuel": "ai95",
+    "price": 89.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Алтай",
+    "fuel": "diesel",
+    "price": 94.83,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Башкортостан",
+    "fuel": "ai92",
+    "price": 62.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Башкортостан",
+    "fuel": "ai95",
+    "price": 67.05,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Башкортостан",
+    "fuel": "diesel",
+    "price": 78.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Бурятия",
+    "fuel": "ai92",
+    "price": 65.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Бурятия",
+    "fuel": "ai95",
+    "price": 69.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Бурятия",
+    "fuel": "diesel",
+    "price": 85.65,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Дагестан",
+    "fuel": "ai92",
+    "price": 125.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Дагестан",
+    "fuel": "ai95",
+    "price": 130.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Дагестан",
+    "fuel": "diesel",
+    "price": 100.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Ингушетия",
+    "fuel": "ai92",
+    "price": 65.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Ингушетия",
+    "fuel": "ai95",
+    "price": 68.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Ингушетия",
+    "fuel": "diesel",
+    "price": 76.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Калмыкия",
+    "fuel": "ai92",
+    "price": 66.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Калмыкия",
+    "fuel": "ai95",
+    "price": 72.27,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Калмыкия",
+    "fuel": "diesel",
+    "price": 79.48,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Карелия",
+    "fuel": "ai92",
+    "price": 65.48,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Карелия",
+    "fuel": "ai95",
+    "price": 70.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Карелия",
+    "fuel": "diesel",
+    "price": 83.95,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Коми",
+    "fuel": "ai92",
+    "price": 64.09,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Коми",
+    "fuel": "ai95",
+    "price": 68.09,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Коми",
+    "fuel": "diesel",
+    "price": 81.49,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Марий Эл",
+    "fuel": "ai92",
+    "price": 92.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Марий Эл",
+    "fuel": "ai95",
+    "price": 91.95,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Марий Эл",
+    "fuel": "diesel",
+    "price": 76.86,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Мордовия",
+    "fuel": "ai92",
+    "price": 63.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Мордовия",
+    "fuel": "ai95",
+    "price": 68.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Мордовия",
+    "fuel": "diesel",
+    "price": 78.75,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Саха (Якутия)",
+    "fuel": "ai92",
+    "price": 100.4,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Саха (Якутия)",
+    "fuel": "ai95",
+    "price": 98.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Саха (Якутия)",
+    "fuel": "diesel",
+    "price": 115.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Северная Осетия - Алания",
+    "fuel": "ai92",
+    "price": 65.4,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Северная Осетия - Алания",
+    "fuel": "ai95",
+    "price": 70.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Северная Осетия - Алания",
+    "fuel": "diesel",
+    "price": 75.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "ai92",
+    "price": 68.75,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "ai95",
+    "price": 74.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "diesel",
+    "price": 78.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Тыва",
+    "fuel": "ai92",
+    "price": 125.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Тыва",
+    "fuel": "ai95",
+    "price": 135.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Тыва",
+    "fuel": "diesel",
+    "price": 96.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Хакасия",
+    "fuel": "ai92",
+    "price": 78.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Хакасия",
+    "fuel": "ai95",
+    "price": 96.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Хакасия",
+    "fuel": "diesel",
+    "price": 89.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "ai92",
+    "price": 66.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "ai95",
+    "price": 72.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "diesel",
+    "price": 77.6,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Рязанская область",
+    "fuel": "ai92",
+    "price": 64.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Рязанская область",
+    "fuel": "ai95",
+    "price": 68.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Рязанская область",
+    "fuel": "diesel",
+    "price": 76.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "ai92",
+    "price": 89.99,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "ai95",
+    "price": 99.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "diesel",
+    "price": 80.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Саратовская область",
+    "fuel": "ai92",
+    "price": 64.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Саратовская область",
+    "fuel": "ai95",
+    "price": 68.45,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Саратовская область",
+    "fuel": "diesel",
+    "price": 78.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Сахалинская область",
+    "fuel": "ai92",
+    "price": 74.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Сахалинская область",
+    "fuel": "ai95",
+    "price": 76.94,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Сахалинская область",
+    "fuel": "diesel",
+    "price": 96.46,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Свердловская область",
+    "fuel": "ai92",
+    "price": 64.33,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Свердловская область",
+    "fuel": "ai95",
+    "price": 68.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Свердловская область",
+    "fuel": "diesel",
+    "price": 80.49,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Смоленская область",
+    "fuel": "ai92",
+    "price": 65.05,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Смоленская область",
+    "fuel": "ai95",
+    "price": 69.7,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Смоленская область",
+    "fuel": "diesel",
+    "price": 77.4,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ставропольский край",
+    "fuel": "ai92",
+    "price": 65.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ставропольский край",
+    "fuel": "ai95",
+    "price": 72.1,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ставропольский край",
+    "fuel": "diesel",
+    "price": 77.5,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тамбовская область",
+    "fuel": "ai92",
+    "price": 64.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тамбовская область",
+    "fuel": "ai95",
+    "price": 69.75,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тамбовская область",
+    "fuel": "diesel",
+    "price": 76.15,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тверская область",
+    "fuel": "ai92",
+    "price": 64.27,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тверская область",
+    "fuel": "ai95",
+    "price": 68.3,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тверская область",
+    "fuel": "diesel",
+    "price": 80.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Томская область",
+    "fuel": "ai92",
+    "price": 62.32,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Томская область",
+    "fuel": "ai95",
+    "price": 65.94,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Томская область",
+    "fuel": "diesel",
+    "price": 83.48,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тульская область",
+    "fuel": "ai92",
+    "price": 64.25,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тульская область",
+    "fuel": "ai95",
+    "price": 70.49,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тульская область",
+    "fuel": "diesel",
+    "price": 77.35,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тюменская область",
+    "fuel": "ai92",
+    "price": 64.34,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тюменская область",
+    "fuel": "ai95",
+    "price": 69.58,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Тюменская область",
+    "fuel": "diesel",
+    "price": 81.53,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Удмуртская Республика",
+    "fuel": "ai92",
+    "price": 63.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Удмуртская Республика",
+    "fuel": "ai95",
+    "price": 69.63,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Удмуртская Республика",
+    "fuel": "diesel",
+    "price": 79.85,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ульяновская область",
+    "fuel": "ai92",
+    "price": 62.95,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ульяновская область",
+    "fuel": "ai95",
+    "price": 68.1,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ульяновская область",
+    "fuel": "diesel",
+    "price": 77.45,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Хабаровский край",
+    "fuel": "ai92",
+    "price": 72.92,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Хабаровский край",
+    "fuel": "ai95",
+    "price": 75.69,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Хабаровский край",
+    "fuel": "diesel",
+    "price": 89.04,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Челябинская область",
+    "fuel": "ai92",
+    "price": 61.55,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Челябинская область",
+    "fuel": "ai95",
+    "price": 67.04,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Челябинская область",
+    "fuel": "diesel",
+    "price": 80.1,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Чеченская Республика",
+    "fuel": "ai92",
+    "price": 109.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Чеченская Республика",
+    "fuel": "ai95",
+    "price": 114.0,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Чеченская Республика",
+    "fuel": "diesel",
+    "price": 71.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Чувашская Республика",
+    "fuel": "ai92",
+    "price": 63.55,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Чувашская Республика",
+    "fuel": "ai95",
+    "price": 119.9,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Чувашская Республика",
+    "fuel": "diesel",
+    "price": 77.8,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ярославская область",
+    "fuel": "ai92",
+    "price": 62.99,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ярославская область",
+    "fuel": "ai95",
+    "price": 67.22,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ярославская область",
+    "fuel": "diesel",
+    "price": 78.23,
+    "source": "ПетролПлюс",
+    "url": "https://www.petrolplus.ru/fuelindex/",
+    "observedAt": "2026-10-28",
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Башкортостан",
+    "fuel": "ai92",
+    "price": 65.77,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Башкортостан",
+    "fuel": "ai95",
+    "price": 70.23,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Башкортостан",
+    "fuel": "diesel",
+    "price": 79.21,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "ai92",
+    "price": 81.34,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "ai95",
+    "price": 93.11,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "ai98",
+    "price": 99.99,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Волгоградская область",
+    "fuel": "diesel",
+    "price": 86.61,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Воронежская область",
+    "fuel": "ai92",
+    "price": 92.48,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Воронежская область",
+    "fuel": "ai95",
+    "price": 100.35,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Воронежская область",
+    "fuel": "diesel",
+    "price": 85.65,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Краснодарский край",
+    "fuel": "ai92",
+    "price": 82.34,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Краснодарский край",
+    "fuel": "ai95",
+    "price": 89.57,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Краснодарский край",
+    "fuel": "diesel",
+    "price": 81.77,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "ai92",
+    "price": 88.18,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "ai95",
+    "price": 90.29,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "ai98",
+    "price": 113.51,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Красноярский край",
+    "fuel": "diesel",
+    "price": 91.36,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "ai92",
+    "price": 67.4,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "ai95",
+    "price": 73.4,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "ai98",
+    "price": 99.51,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ленинградская область",
+    "fuel": "diesel",
+    "price": 81.72,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Москва",
+    "fuel": "ai92",
+    "price": 69.34,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Москва",
+    "fuel": "ai95",
+    "price": 75.49,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Москва",
+    "fuel": "diesel",
+    "price": 82.7,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "ai92",
+    "price": 80.2,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "ai95",
+    "price": 86.73,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "ai98",
+    "price": 115.87,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Московская область",
+    "fuel": "diesel",
+    "price": 85.1,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "ai92",
+    "price": 81.29,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "ai95",
+    "price": 84.9,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "ai98",
+    "price": 97.5,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Нижегородская область",
+    "fuel": "diesel",
+    "price": 79.58,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "ai92",
+    "price": 87.09,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "ai95",
+    "price": 87.7,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "ai98",
+    "price": 116.17,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Новосибирская область",
+    "fuel": "diesel",
+    "price": 85.86,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Омская область",
+    "fuel": "ai92",
+    "price": 61.82,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Омская область",
+    "fuel": "ai95",
+    "price": 66.88,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Омская область",
+    "fuel": "diesel",
+    "price": 79.94,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пермский край",
+    "fuel": "ai92",
+    "price": 78.2,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пермский край",
+    "fuel": "ai95",
+    "price": 80.28,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Пермский край",
+    "fuel": "diesel",
+    "price": 85.91,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "ai92",
+    "price": 77.02,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "ai95",
+    "price": 83.54,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "ai98",
+    "price": 103.95,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Ростовская область",
+    "fuel": "diesel",
+    "price": 82.35,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "ai92",
+    "price": 79.11,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "ai95",
+    "price": 86.34,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "ai98",
+    "price": 99.99,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Самарская область",
+    "fuel": "diesel",
+    "price": 84.18,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "ai92",
+    "price": 65.73,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "ai95",
+    "price": 71.95,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "ai98",
+    "price": 100.2,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "г. Санкт-Петербург",
+    "fuel": "diesel",
+    "price": 81.18,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Свердловская область",
+    "fuel": "ai92",
+    "price": 85.61,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Свердловская область",
+    "fuel": "ai95",
+    "price": 86.26,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Свердловская область",
+    "fuel": "diesel",
+    "price": 84.35,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "ai92",
+    "price": 73.91,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "ai95",
+    "price": 80.79,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "ai98",
+    "price": 104.98,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Республика Татарстан",
+    "fuel": "diesel",
+    "price": 81.97,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Челябинская область",
+    "fuel": "ai92",
+    "price": 79.71,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Челябинская область",
+    "fuel": "ai95",
+    "price": 86.18,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  },
+  {
+    "region": "Челябинская область",
+    "fuel": "diesel",
+    "price": 85.3,
+    "source": "Бензина.нет",
+    "url": "https://www.benzinanet.com/ceny/",
+    "observedAt": null,
+    "retrievedAt": "2026-10-29",
+    "scope": "Среднее по выборке поставщика"
+  }
+]
