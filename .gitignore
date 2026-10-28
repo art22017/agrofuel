@@ -19,3 +19,5 @@ research/
 *.snm
 *.toc
 *.vrb
+.hallmark/
+docs/presentation/compile.txt

@@ -50,3 +50,8 @@ npm run dev
 
 React 19, TypeScript, Vite, Recharts, Leaflet, H3, Node.js. Компоненты 21st.dev адаптированы к рабочему сценарию; ссылки и авторство в исходниках. Карта загружается отдельным модулем. Доступна сборка Docker / Nginx через `docker compose up --build`.
 
+## Ссылки
+
+- [Открыть сервис](https://agrofuel-artyomkorotkov2019-6469s-projects.vercel.app)
+- [Презентация PDF](docs/presentation/agrofuel.pdf)
+- [Исходный LaTeX](docs/presentation/main.tex)
