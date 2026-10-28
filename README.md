@@ -52,6 +52,6 @@ React 19, TypeScript, Vite, Recharts, Leaflet, H3, Node.js. Компоненты
 
 ## Ссылки
 
-- [Открыть сервис](https://agrofuel-artyomkorotkov2019-6469s-projects.vercel.app)
+- [Открыть сервис](https://agrofuel-pi.vercel.app)
 - [Презентация PDF](docs/presentation/agrofuel.pdf)
 - [Исходный LaTeX](docs/presentation/main.tex)
